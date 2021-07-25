@@ -4,3 +4,4 @@ https://ourworldindata.org/covid-deaths
 # The Project helps in understanding a lot of interesting facts about COVID-19 has affected our world
 
 # Here is a Link to my Second Portfolio Project (Creating Visuals for Tableau Using the Same Dataset)
+https://public.tableau.com/app/profile/seif.hanafi/viz/COVID-19Dashboard_16271798641560/Dashboard1?publish=yes
